@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EthernomPasswordManagerMobile.iml" filepath="$PROJECT_DIR$/.idea/modules/EthernomPasswordManagerMobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EthernomPasswordManagerMobile.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EthernomPasswordManagerMobile.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1859720774/EthernomPasswordManagerMobile.ethernom_ethernom-api.iml" filepath="$PROJECT_DIR$/.idea/modules/-1859720774/EthernomPasswordManagerMobile.ethernom_ethernom-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1127962494/EthernomPasswordManagerMobile.react-native-android-open-settings.iml" filepath="$PROJECT_DIR$/.idea/modules/1127962494/EthernomPasswordManagerMobile.react-native-android-open-settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/258700328/EthernomPasswordManagerMobile.react-native-bluetooth-state-manager.iml" filepath="$PROJECT_DIR$/.idea/modules/258700328/EthernomPasswordManagerMobile.react-native-bluetooth-state-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1418632354/EthernomPasswordManagerMobile.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1418632354/EthernomPasswordManagerMobile.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1176949505/EthernomPasswordManagerMobile.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1176949505/EthernomPasswordManagerMobile.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1937269157/EthernomPasswordManagerMobile.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/-1937269157/EthernomPasswordManagerMobile.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1851501732/EthernomPasswordManagerMobile.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1851501732/EthernomPasswordManagerMobile.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-919062868/EthernomPasswordManagerMobile.react-native-keychain.iml" filepath="$PROJECT_DIR$/.idea/modules/-919062868/EthernomPasswordManagerMobile.react-native-keychain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1451264486/EthernomPasswordManagerMobile.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-1451264486/EthernomPasswordManagerMobile.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/35694365/EthernomPasswordManagerMobile.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/35694365/EthernomPasswordManagerMobile.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2012667932/EthernomPasswordManagerMobile.react-native-system-setting.iml" filepath="$PROJECT_DIR$/.idea/modules/2012667932/EthernomPasswordManagerMobile.react-native-system-setting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1121066502/EthernomPasswordManagerMobile.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1121066502/EthernomPasswordManagerMobile.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1055649903/EthernomPasswordManagerMobile.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/-1055649903/EthernomPasswordManagerMobile.react-native-video.iml" />
     </modules>
   </component>
 </project>
